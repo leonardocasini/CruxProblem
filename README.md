@@ -9,6 +9,7 @@ These languages are implemented directly and facilitated by an indefinite number
 ## Prerequisites
 The implementation of the model to solve the crossword has been done with the programming language Python.
 Once the model was set, the solver Mistral of the Numberjack library was used.
+
 Requirement | Version Used
 ------------| ------------
 Python | 2.7
