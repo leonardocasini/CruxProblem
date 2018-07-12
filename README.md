@@ -1,5 +1,4 @@
 # CruxProblem
-An exercise of Constraint Sati-sfaction Problem modeling
 ## A simple project for the Artificial Intelligence
 The exercise carried out aims at the CSP (Constraint Sati-sfaction Problem) modeling of the problem of the numerical crossword. 
 For software implementation, particular attention is paid to programming languages for the success of constraints, in particular the Numberjack programming environment.
